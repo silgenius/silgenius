@@ -79,7 +79,7 @@ Check out pinned Repositories for more details on projects
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:martinolutade@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -89,6 +89,6 @@ Check out pinned Repositories for more details on projects
 
 ---
 
-> _“Any sufficiently advanced technology is indistinguishable from magic.”_
+> _“True Innovation is born from True Understanding”_
 >
-> — **Arthur C. Clarke's**
+> — **Martin Olutade**
