@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-> I’m a problem-solver at heart — passionate about transforming complex technical challenges into elegant, scalable solutions.  
+> I’m a problem-solver at heart - passionate about transforming complex technical challenges into elegant, scalable solutions.  
 > My approach blends **logic**, **creativity**, and **precision**, inspired by my love for **mathematics** and **physics**.
 
 💡 **Focus Areas:**
