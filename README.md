@@ -8,6 +8,7 @@
 <p align="center">
   <em>A Software Engineer driven by curiosity and a deep passion for continuous learning.</em><br>
   <em>I craft scalable, user-centered solutions for mobile and backend systems.</em>
+  <em>Open to  connect and collaborate 👋</em>
 </p>
 
 ---
