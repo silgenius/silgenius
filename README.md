@@ -54,9 +54,9 @@
 
 | Project                   | Description                                                                                                                                               | Tech                                 |
 | :------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------- |
-| 🚀 **Coblog**             | A Social Space Where User Can Co-create Shared Experience, Write About Them and Publish Them As One Collective Narrative                                  | React, TypeScript, Node.js, Yjs, JWT |
-| 🔐 **Simple Shell**       | A project developed as part of the ALX program, focusing on creating a simple shell that supports basic commands, built-in functions, and path execution. | C                                    |
-| 🧮 **leetcode-solutions** | A complete collection of my LeetCode solutions with clean code, explanations, and categorized problem sets for interview prep.                            | JavaScript                           |
+| 🚀 **[Coblog](https://github.com/SeM2x/CoBlog)**             | A Social Space Where User Can Co-create Shared Experience, Write About Them and Publish Them As One Collective Narrative                                  | React, TypeScript, Node.js, Yjs, JWT |
+| 🔐 **[Simple Shell](https://github.com/silgenius/simple_shell)**       | A project developed as part of the ALX program, focusing on creating a simple shell that supports basic commands, built-in functions, and path execution. | C                                    |
+| 🧮 **[leetcode-solutions](https://github.com/silgenius/leetcode-solutions)** | A complete collection of my LeetCode solutions with clean code, explanations, and categorized problem sets for interview prep.                            | JavaScript                           |
 
 Check out pinned Repositories for more details on projects
 
