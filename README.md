@@ -89,6 +89,6 @@ Check out pinned Repositories for more details on projects
 
 ---
 
-> _“Don't be ordinary, Shake things,!”_
+> _“Don't be ordinary, Shake things!”_
 >
-> — **Martin Olutade**
+> - **Martin Olutade**
